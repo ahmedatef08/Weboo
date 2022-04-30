@@ -1,0 +1,24 @@
+/*      background-image : url(../mages/amn.jpg); 
+        background-repeat: repeat-x; 
+        background-attachment: fixed; 
+        background-size: contain;
+        padding: 20px;
+        width: 200px;
+        border-style: solid;
+        border-color: red green;
+        border-width: 12px;
+        outline: indigo dashed 10px;
+        visibility: hidden;
+        display: none;
+        width: 150px;
+        height: 150px;
+        background: rgb(54, 52, 52);
+        border-radius: 6px;
+        margin: 20px auto;
+        overflow:scroll; 
+  background-color: rgba(238, 238, 238, 0.521);
+  text-shadow: 0 1px 0 red;
+    text-align: center;
+    direction: rtl;
+    text-decoration:line-through;
+*/
